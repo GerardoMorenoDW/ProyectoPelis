@@ -90,10 +90,8 @@ body{
 .content{
     grid-area: content;
     background: #f6f7f9;
-
     display: flex;
-    flex-flow: row wrap;
-    justify-content: flex-start;
+    flex-wrap: wrap;
     align-items: flex-start;
 }
 
